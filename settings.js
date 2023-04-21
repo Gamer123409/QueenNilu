@@ -7,17 +7,17 @@ const chalk = require('chalk')
 */
 
 //Owner Number & Name 
-global.owner = ['94767438882'] //ur owner number
-global.ownername = "Janith sadanuwan" //ur owner name
+global.owner = ['201062823926'] //ur owner number
+global.ownername = "MAGED" //ur owner name
 
 //Bot Name 
-global.botname = 'ǫᴜᴇᴇɴ ɴɪʟᴜ' //ur bot name
-global.wm = "ǫᴜᴇᴇɴ ɴɪʟᴜ" //ur watermark
+global.botname = 'MAGED' //ur bot name
+global.wm = "MAGED.CORAZON" //ur watermark
 
 global.keyopenai = "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",
 //React Messages 
 global.OWNER_REACT = '🥀' //Owner's Messages react emoji
-global.AUTO_REACT = 'true' // React Messags auto
+global.AUTO_REACT = 'false // React Messags auto
 
 
 /*
@@ -27,7 +27,7 @@ BOT SETTINGS
 //Language English = 'EN' , Sinhala = 'SI' , Tamil= 'TL'
 global.LANG = 'EN'
 
-global.READ_MASSAGE = true
+global.READ_MASSAGE = false 
 
 // enable desable Girls Voice Reply
 global.VOICE_REPLY = true
@@ -51,7 +51,7 @@ global.cap = '© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 QUEEN NILU ²⁰�
 global.MENU_IMOJI = '💃|🧸'
 //Time & Location
 global.TIME_ZONE = 'Asia/Colombo'
-global.location = "colombo, India, Aizawl" //ur location
+global.location = "Egypt" //ur location
 //Song Download Message
 global.SONG_DOWN = '```⬇️ Downloading Your Song...```' 
 // Song Uplode massage 
@@ -65,7 +65,7 @@ global.KICK_MSG = ' '
 
 //Links (URLS)
 global.ytname = "YT: janithsadanuwan" //ur yt chanel name
-global.socialm = "GitHub: janithsadanuwan" //ur github or insta name
+global.socialm = "insta: emaged" //ur github or insta name
 global.linkz = "https://chat.whatsapp.com/" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/c/janithsadanuwan" //ur website to be displayed
 global.botscript = 'https://github.com/janithsadanuwan/QueenNilu' //script link
@@ -75,7 +75,7 @@ global.alivelogo = process.env.ALIVE_LOGO || `https://te.legra.ph/file/a9293226a
 global.alive = process.env.ALIVE_MESSAGE 
 
 //Sticker Making 
-global.packname = "ǫᴜᴇᴇɴ ɴɪʟᴜ 💃" 
+global.packname = "MAGED.CORAZON" 
 
 //Anti Bad Word
 global.ANTI_BADWORD = 'true'
